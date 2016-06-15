@@ -1,0 +1,742 @@
+# depslib dependency file v1.0
+1462820636 source:c:\users\standa\desktop\carmen_sniffer\fw_proofofconcept\keilrtx\rtx_conf_cm.c
+	"cmsis_os.h"
+	"RTX_CM_lib.h"
+
+1360752504 c:\users\standa\desktop\carmen_sniffer\fw_proofofconcept\keilrtx\cmsis_os.h
+	<cmsis_os.h>
+	"osObjects.h"
+	"osObjects.h"
+	<stdint.h>
+	<stddef.h>
+
+1360752504 c:\users\standa\desktop\carmen_sniffer\fw_proofofconcept\keilrtx\rtx_cm_lib.h
+	"cs3.h"
+
+1462818630 source:c:\users\standa\desktop\carmen_sniffer\fw_proofofconcept\sources\blinky.c
+	"blinky.h"
+	"main.h"
+
+1421585387 c:\users\standa\desktop\carmen_sniffer\fw_proofofconcept\sources\blinky.h
+	<stdint.h>
+	"cmsis_os.h"
+
+1461876496 c:\users\standa\desktop\carmen_sniffer\fw_proofofconcept\sources\main.h
+	<stdint.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<math.h>
+	"stm32f3xx.h"
+	"cmsis_os.h"
+	"utility.h"
+	"blinky.h"
+	"com.h"
+	"xbee.h"
+
+1402652614 c:\users\standa\desktop\carmen_sniffer\fw_proofofconcept\startup\stm32f3xx.h
+	"stm32f301x8.h"
+	"stm32f302x8.h"
+	"stm32f302xc.h"
+	"stm32f303x8.h"
+	"stm32f303xc.h"
+	"stm32f373xc.h"
+	"stm32f334x8.h"
+	"stm32f318xx.h"
+	"stm32f328xx.h"
+	"stm32f358xx.h"
+	"stm32f378xx.h"
+	"stm32f3xx_hal.h"
+
+1403025236 c:\users\standa\desktop\carmen_sniffer\fw_proofofconcept\startup\stm32f303xc.h
+	"core_cm4.h"
+	"system_stm32f3xx.h"
+	<stdint.h>
+
+1399274760 c:\users\standa\desktop\carmen_sniffer\fw_proofofconcept\cmsis\include\core_cm4.h
+	<stdint.h>
+	<core_cmInstr.h>
+	<core_cmFunc.h>
+	<core_cm4_simd.h>
+
+1399274760 c:\users\standa\desktop\carmen_sniffer\fw_proofofconcept\cmsis\include\core_cminstr.h
+	<cmsis_iar.h>
+	<cmsis_ccs.h>
+
+1399274760 c:\users\standa\desktop\carmen_sniffer\fw_proofofconcept\cmsis\include\core_cmfunc.h
+	<cmsis_iar.h>
+	<cmsis_ccs.h>
+
+1399274760 c:\users\standa\desktop\carmen_sniffer\fw_proofofconcept\cmsis\include\core_cm4_simd.h
+	<cmsis_iar.h>
+	<cmsis_ccs.h>
+
+1402650838 c:\users\standa\desktop\carmen_sniffer\fw_proofofconcept\startup\system_stm32f3xx.h
+
+1403048574 c:\users\standa\desktop\carmen_sniffer\fw_proofofconcept\stm32f3xx_hal_driver\stm32f3xx_hal.h
+	"stm32f3xx_hal_conf.h"
+
+1410817236 c:\users\standa\desktop\carmen_sniffer\fw_proofofconcept\sources\stm32f3xx_hal_conf.h
+	"stm32f3xx_hal_rcc.h"
+	"stm32f3xx_hal_gpio.h"
+	"stm32f3xx_hal_dma.h"
+	"stm32f3xx_hal_cortex.h"
+	"stm32f3xx_hal_adc.h"
+	"stm32f3xx_hal_can.h"
+	"stm32f3xx_hal_cec.h"
+	"stm32f3xx_hal_comp.h"
+	"stm32f3xx_hal_crc.h"
+	"stm32f3xx_hal_dac.h"
+	"stm32f3xx_hal_flash.h"
+	"stm32f3xx_hal_hrtim.h"
+	"stm32f3xx_hal_i2c.h"
+	"stm32f3xx_hal_i2s.h"
+	"stm32f3xx_hal_irda.h"
+	"stm32f3xx_hal_iwdg.h"
+	"stm32f3xx_hal_opamp.h"
+	"stm32f3xx_hal_pcd.h"
+	"stm32f3xx_hal_pwr.h"
+	"stm32f3xx_hal_rtc.h"
+	"stm32f3xx_hal_sdadc.h"
+	"stm32f3xx_hal_smartcard.h"
+	"stm32f3xx_hal_smbus.h"
+	"stm32f3xx_hal_spi.h"
+	"stm32f3xx_hal_tim.h"
+	"stm32f3xx_hal_tsc.h"
+	"stm32f3xx_hal_uart.h"
+	"stm32f3xx_hal_usart.h"
+	"stm32f3xx_hal_wwdg.h"
+
+1403104572 c:\users\standa\desktop\carmen_sniffer\fw_proofofconcept\stm32f3xx_hal_driver\stm32f3xx_hal_rcc.h
+	"stm32f3xx_hal_def.h"
+	"stm32f3xx_hal_rcc_ex.h"
+
+1403048574 c:\users\standa\desktop\carmen_sniffer\fw_proofofconcept\stm32f3xx_hal_driver\stm32f3xx_hal_def.h
+	"stm32f3xx.h"
+
+1403104572 c:\users\standa\desktop\carmen_sniffer\fw_proofofconcept\stm32f3xx_hal_driver\stm32f3xx_hal_rcc_ex.h
+	"stm32f3xx_hal_def.h"
+
+1403048574 c:\users\standa\desktop\carmen_sniffer\fw_proofofconcept\stm32f3xx_hal_driver\stm32f3xx_hal_gpio.h
+	"stm32f3xx_hal_def.h"
+	"stm32f3xx_hal_gpio_ex.h"
+
+1403048574 c:\users\standa\desktop\carmen_sniffer\fw_proofofconcept\stm32f3xx_hal_driver\stm32f3xx_hal_gpio_ex.h
+	"stm32f3xx_hal_def.h"
+
+1403048574 c:\users\standa\desktop\carmen_sniffer\fw_proofofconcept\stm32f3xx_hal_driver\stm32f3xx_hal_dma.h
+	"stm32f3xx_hal_def.h"
+	"stm32f3xx_hal_dma_ex.h"
+
+1403048574 c:\users\standa\desktop\carmen_sniffer\fw_proofofconcept\stm32f3xx_hal_driver\stm32f3xx_hal_dma_ex.h
+	"stm32f3xx_hal_def.h"
+
+1403048574 c:\users\standa\desktop\carmen_sniffer\fw_proofofconcept\stm32f3xx_hal_driver\stm32f3xx_hal_cortex.h
+	"stm32f3xx_hal_def.h"
+
+1403048574 c:\users\standa\desktop\carmen_sniffer\fw_proofofconcept\stm32f3xx_hal_driver\stm32f3xx_hal_adc.h
+	"stm32f3xx_hal_def.h"
+	"stm32f3xx_hal_adc_ex.h"
+	"stm32f3xx_hal_adc_ex.h"
+
+1403048574 c:\users\standa\desktop\carmen_sniffer\fw_proofofconcept\stm32f3xx_hal_driver\stm32f3xx_hal_adc_ex.h
+	"stm32f3xx_hal_def.h"
+
+1421845520 c:\users\standa\desktop\carmen_sniffer\fw_proofofconcept\stm32f3xx_hal_driver\stm32f3xx_hal_can.h
+	"stm32f3xx_hal_def.h"
+
+1403048574 c:\users\standa\desktop\carmen_sniffer\fw_proofofconcept\stm32f3xx_hal_driver\stm32f3xx_hal_cec.h
+	"stm32f3xx_hal_def.h"
+
+1403048574 c:\users\standa\desktop\carmen_sniffer\fw_proofofconcept\stm32f3xx_hal_driver\stm32f3xx_hal_comp.h
+	"stm32f3xx_hal_def.h"
+	"stm32f3xx_hal_comp_ex.h"
+
+1403048574 c:\users\standa\desktop\carmen_sniffer\fw_proofofconcept\stm32f3xx_hal_driver\stm32f3xx_hal_comp_ex.h
+	"stm32f3xx_hal_def.h"
+
+1403048574 c:\users\standa\desktop\carmen_sniffer\fw_proofofconcept\stm32f3xx_hal_driver\stm32f3xx_hal_crc.h
+	"stm32f3xx_hal_def.h"
+	"stm32f3xx_hal_crc_ex.h"
+
+1403048574 c:\users\standa\desktop\carmen_sniffer\fw_proofofconcept\stm32f3xx_hal_driver\stm32f3xx_hal_crc_ex.h
+	"stm32f3xx_hal_def.h"
+
+1403048574 c:\users\standa\desktop\carmen_sniffer\fw_proofofconcept\stm32f3xx_hal_driver\stm32f3xx_hal_dac.h
+	"stm32f3xx_hal_def.h"
+	"stm32f3xx_hal_dac_ex.h"
+
+1403048574 c:\users\standa\desktop\carmen_sniffer\fw_proofofconcept\stm32f3xx_hal_driver\stm32f3xx_hal_dac_ex.h
+	"stm32f3xx_hal_def.h"
+
+1403048574 c:\users\standa\desktop\carmen_sniffer\fw_proofofconcept\stm32f3xx_hal_driver\stm32f3xx_hal_flash.h
+	"stm32f3xx_hal_def.h"
+	"stm32f3xx_hal_flash_ex.h"
+
+1403048574 c:\users\standa\desktop\carmen_sniffer\fw_proofofconcept\stm32f3xx_hal_driver\stm32f3xx_hal_flash_ex.h
+	"stm32f3xx_hal_def.h"
+
+1403048574 c:\users\standa\desktop\carmen_sniffer\fw_proofofconcept\stm32f3xx_hal_driver\stm32f3xx_hal_hrtim.h
+	"stm32f3xx_hal_def.h"
+
+1403048574 c:\users\standa\desktop\carmen_sniffer\fw_proofofconcept\stm32f3xx_hal_driver\stm32f3xx_hal_i2c.h
+	"stm32f3xx_hal_def.h"
+	"stm32f3xx_hal_i2c_ex.h"
+
+1403048574 c:\users\standa\desktop\carmen_sniffer\fw_proofofconcept\stm32f3xx_hal_driver\stm32f3xx_hal_i2c_ex.h
+	"stm32f3xx_hal_def.h"
+
+1403048574 c:\users\standa\desktop\carmen_sniffer\fw_proofofconcept\stm32f3xx_hal_driver\stm32f3xx_hal_i2s.h
+	"stm32f3xx_hal_def.h"
+	"stm32f3xx_hal_i2s_ex.h"
+
+1403048574 c:\users\standa\desktop\carmen_sniffer\fw_proofofconcept\stm32f3xx_hal_driver\stm32f3xx_hal_i2s_ex.h
+	"stm32f3xx_hal_def.h"
+
+1403048574 c:\users\standa\desktop\carmen_sniffer\fw_proofofconcept\stm32f3xx_hal_driver\stm32f3xx_hal_irda.h
+	"stm32f3xx_hal_def.h"
+	"stm32f3xx_hal_irda_ex.h"
+
+1403104572 c:\users\standa\desktop\carmen_sniffer\fw_proofofconcept\stm32f3xx_hal_driver\stm32f3xx_hal_irda_ex.h
+	"stm32f3xx_hal_def.h"
+
+1403048574 c:\users\standa\desktop\carmen_sniffer\fw_proofofconcept\stm32f3xx_hal_driver\stm32f3xx_hal_iwdg.h
+	"stm32f3xx_hal_def.h"
+
+1403048574 c:\users\standa\desktop\carmen_sniffer\fw_proofofconcept\stm32f3xx_hal_driver\stm32f3xx_hal_opamp.h
+	"stm32f3xx_hal_def.h"
+	"stm32f3xx_hal_opamp_ex.h"
+
+1403048574 c:\users\standa\desktop\carmen_sniffer\fw_proofofconcept\stm32f3xx_hal_driver\stm32f3xx_hal_opamp_ex.h
+	"stm32f3xx_hal_def.h"
+
+1403133748 c:\users\standa\desktop\carmen_sniffer\fw_proofofconcept\stm32f3xx_hal_driver\stm32f3xx_hal_pcd.h
+	"stm32f3xx_hal_def.h"
+	"stm32f3xx_hal_pcd_ex.h"
+
+1403048574 c:\users\standa\desktop\carmen_sniffer\fw_proofofconcept\stm32f3xx_hal_driver\stm32f3xx_hal_pcd_ex.h
+	"stm32f3xx_hal_def.h"
+
+1403048574 c:\users\standa\desktop\carmen_sniffer\fw_proofofconcept\stm32f3xx_hal_driver\stm32f3xx_hal_pwr.h
+	"stm32f3xx_hal_def.h"
+	"stm32f3xx_hal_pwr_ex.h"
+
+1403048574 c:\users\standa\desktop\carmen_sniffer\fw_proofofconcept\stm32f3xx_hal_driver\stm32f3xx_hal_pwr_ex.h
+	"stm32f3xx_hal_def.h"
+
+1403048574 c:\users\standa\desktop\carmen_sniffer\fw_proofofconcept\stm32f3xx_hal_driver\stm32f3xx_hal_rtc.h
+	"stm32f3xx_hal_def.h"
+	"stm32f3xx_hal_rtc_ex.h"
+
+1403048574 c:\users\standa\desktop\carmen_sniffer\fw_proofofconcept\stm32f3xx_hal_driver\stm32f3xx_hal_rtc_ex.h
+	"stm32f3xx_hal_def.h"
+
+1403048574 c:\users\standa\desktop\carmen_sniffer\fw_proofofconcept\stm32f3xx_hal_driver\stm32f3xx_hal_sdadc.h
+	"stm32f3xx_hal_def.h"
+
+1403104572 c:\users\standa\desktop\carmen_sniffer\fw_proofofconcept\stm32f3xx_hal_driver\stm32f3xx_hal_smartcard.h
+	"stm32f3xx_hal_def.h"
+	"stm32f3xx_hal_smartcard_ex.h"
+
+1403104572 c:\users\standa\desktop\carmen_sniffer\fw_proofofconcept\stm32f3xx_hal_driver\stm32f3xx_hal_smartcard_ex.h
+	"stm32f3xx_hal_def.h"
+
+1403048574 c:\users\standa\desktop\carmen_sniffer\fw_proofofconcept\stm32f3xx_hal_driver\stm32f3xx_hal_smbus.h
+	"stm32f3xx_hal_def.h"
+
+1403048574 c:\users\standa\desktop\carmen_sniffer\fw_proofofconcept\stm32f3xx_hal_driver\stm32f3xx_hal_spi.h
+	"stm32f3xx_hal_def.h"
+
+1414624788 c:\users\standa\desktop\carmen_sniffer\fw_proofofconcept\stm32f3xx_hal_driver\stm32f3xx_hal_tim.h
+	"stm32f3xx_hal_def.h"
+	"stm32f3xx_hal_tim_ex.h"
+
+1403048574 c:\users\standa\desktop\carmen_sniffer\fw_proofofconcept\stm32f3xx_hal_driver\stm32f3xx_hal_tim_ex.h
+	"stm32f3xx_hal_def.h"
+
+1403048574 c:\users\standa\desktop\carmen_sniffer\fw_proofofconcept\stm32f3xx_hal_driver\stm32f3xx_hal_tsc.h
+	"stm32f3xx_hal_def.h"
+
+1412163752 c:\users\standa\desktop\carmen_sniffer\fw_proofofconcept\stm32f3xx_hal_driver\stm32f3xx_hal_uart.h
+	"stm32f3xx_hal_def.h"
+	"stm32f3xx_hal_uart_ex.h"
+
+1403104572 c:\users\standa\desktop\carmen_sniffer\fw_proofofconcept\stm32f3xx_hal_driver\stm32f3xx_hal_uart_ex.h
+	"stm32f3xx_hal_def.h"
+
+1403149542 c:\users\standa\desktop\carmen_sniffer\fw_proofofconcept\stm32f3xx_hal_driver\stm32f3xx_hal_usart.h
+	"stm32f3xx_hal_def.h"
+	"stm32f3xx_hal_usart_ex.h"
+
+1403104572 c:\users\standa\desktop\carmen_sniffer\fw_proofofconcept\stm32f3xx_hal_driver\stm32f3xx_hal_usart_ex.h
+	"stm32f3xx_hal_def.h"
+
+1403048574 c:\users\standa\desktop\carmen_sniffer\fw_proofofconcept\stm32f3xx_hal_driver\stm32f3xx_hal_wwdg.h
+	"stm32f3xx_hal_def.h"
+
+1461691048 c:\users\standa\desktop\carmen_sniffer\fw_proofofconcept\sources\utility.h
+
+1412065476 c:\users\standa\desktop\carmen_sniffer\fw_proofofconcept\sources\clocks.h
+
+1461691032 c:\users\standa\desktop\carmen_sniffer\fw_proofofconcept\sources\com.h
+	"cmsis_os.h"
+
+1461774543 c:\users\standa\desktop\carmen_sniffer\fw_proofofconcept\sources\xbee.h
+	"cmsis_os.h"
+
+1421839710 c:\users\standa\desktop\carmen_sniffer\fw_proofofconcept\sources\can.h
+	"cmsis_os.h"
+
+1462820877 source:c:\users\standa\desktop\carmen_sniffer\fw_proofofconcept\sources\can.c
+	"main.h"
+	"can.h"
+
+1415106524 source:c:\users\standa\desktop\carmen_sniffer\fw_proofofconcept\sources\clocks.c
+	"clocks.h"
+	"main.h"
+
+1462822709 source:c:\users\standa\desktop\carmen_sniffer\fw_proofofconcept\sources\com.c
+	"main.h"
+	"can.h"
+	<stdarg.h>
+
+1461691055 source:c:\users\standa\desktop\carmen_sniffer\fw_proofofconcept\sources\utility.c
+	"main.h"
+	"utility.h"
+
+1421762236 source:c:\users\standa\desktop\carmen_sniffer\fw_proofofconcept\startup\startup_stm32f303xc.s
+
+1402650838 source:c:\users\standa\desktop\carmen_sniffer\fw_proofofconcept\startup\system_stm32f3xx.c
+	"stm32f3xx.h"
+
+1403048568 source:c:\users\standa\desktop\carmen_sniffer\fw_proofofconcept\stm32f3xx_hal_driver\stm32f3xx_hal.c
+	"stm32f3xx_hal.h"
+
+1461876672 source:c:\users\standa\desktop\carmen_sniffer\fw_proofofconcept\sources\main.c
+	"main.h"
+	"clocks.h"
+	"xbee.h"
+	"can.h"
+
+1421842951 source:c:\users\standa\desktop\carmen_sniffer\fw_proofofconcept\stm32f3xx_hal_driver\stm32f3xx_hal_can.c
+	"stm32f3xx_hal.h"
+
+1403048568 source:c:\users\standa\desktop\carmen_sniffer\fw_proofofconcept\stm32f3xx_hal_driver\stm32f3xx_hal_cortex.c
+	"stm32f3xx_hal.h"
+
+1421661348 source:c:\users\standa\desktop\carmen_sniffer\fw_proofofconcept\stm32f3xx_hal_driver\stm32f3xx_hal_dma.c
+	"stm32f3xx_hal.h"
+
+1403048568 source:c:\users\standa\desktop\carmen_sniffer\fw_proofofconcept\stm32f3xx_hal_driver\stm32f3xx_hal_flash.c
+	"stm32f3xx_hal.h"
+
+1403048568 source:c:\users\standa\desktop\carmen_sniffer\fw_proofofconcept\stm32f3xx_hal_driver\stm32f3xx_hal_flash_ex.c
+	"stm32f3xx_hal.h"
+
+1403139008 source:c:\users\standa\desktop\carmen_sniffer\fw_proofofconcept\stm32f3xx_hal_driver\stm32f3xx_hal_gpio.c
+	"stm32f3xx_hal.h"
+
+1403104572 source:c:\users\standa\desktop\carmen_sniffer\fw_proofofconcept\stm32f3xx_hal_driver\stm32f3xx_hal_pwr.c
+	"stm32f3xx_hal.h"
+
+1403048568 source:c:\users\standa\desktop\carmen_sniffer\fw_proofofconcept\stm32f3xx_hal_driver\stm32f3xx_hal_pwr_ex.c
+	"stm32f3xx_hal.h"
+
+1403048568 source:c:\users\standa\desktop\carmen_sniffer\fw_proofofconcept\stm32f3xx_hal_driver\stm32f3xx_hal_rcc.c
+	"stm32f3xx_hal.h"
+
+1403048568 source:c:\users\standa\desktop\carmen_sniffer\fw_proofofconcept\stm32f3xx_hal_driver\stm32f3xx_hal_rcc_ex.c
+	"stm32f3xx_hal.h"
+
+1403048568 source:c:\users\standa\desktop\carmen_sniffer\fw_proofofconcept\stm32f3xx_hal_driver\stm32f3xx_hal_tim.c
+	"stm32f3xx_hal.h"
+
+1403048568 source:c:\users\standa\desktop\carmen_sniffer\fw_proofofconcept\stm32f3xx_hal_driver\stm32f3xx_hal_tim_ex.c
+	"stm32f3xx_hal.h"
+
+1403048568 source:c:\users\standa\desktop\carmen_sniffer\fw_proofofconcept\stm32f3xx_hal_driver\stm32f3xx_hal_uart.c
+	"stm32f3xx_hal.h"
+
+1461876736 source:c:\users\standa\desktop\carmen_sniffer\fw_proofofconcept\sources\xbee.c
+	"main.h"
+	"comprotocol.h"
+	<stdarg.h>
+
+1461688717 c:\users\standa\desktop\carmen_sniffer\fw_proofofconcept\sources\comprotocol.h
+	<stdint.h>
+
+1462566068 source:c:\users\standa\desktop\carmen_sniffer\fw_proofofconcept\sources\comprotocol.c
+	"comprotocol.h"
+	"main.h"
+	"can.h"
+
+1462820636 source:c:\users\standa\desktop\projects\canfirewall\fw\dev\keilrtx\rtx_conf_cm.c
+	"cmsis_os.h"
+	"RTX_CM_lib.h"
+
+1360752504 c:\users\standa\desktop\projects\canfirewall\fw\dev\keilrtx\cmsis_os.h
+	<cmsis_os.h>
+	"osObjects.h"
+	"osObjects.h"
+	<stdint.h>
+	<stddef.h>
+
+1360752504 c:\users\standa\desktop\projects\canfirewall\fw\dev\keilrtx\rtx_cm_lib.h
+	"cs3.h"
+
+1463331195 source:c:\users\standa\desktop\projects\canfirewall\fw\dev\sources\blinky.c
+	"blinky.h"
+	"main.h"
+
+1421585387 c:\users\standa\desktop\projects\canfirewall\fw\dev\sources\blinky.h
+	<stdint.h>
+	"cmsis_os.h"
+
+1463332272 c:\users\standa\desktop\projects\canfirewall\fw\dev\sources\main.h
+	<stdint.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<math.h>
+	"stm32f3xx.h"
+	"cmsis_os.h"
+	"utility.h"
+	"blinky.h"
+	"com.h"
+	"xbee.h"
+
+1402652614 c:\users\standa\desktop\projects\canfirewall\fw\dev\startup\stm32f3xx.h
+	"stm32f301x8.h"
+	"stm32f302x8.h"
+	"stm32f302xc.h"
+	"stm32f303x8.h"
+	"stm32f303xc.h"
+	"stm32f373xc.h"
+	"stm32f334x8.h"
+	"stm32f318xx.h"
+	"stm32f328xx.h"
+	"stm32f358xx.h"
+	"stm32f378xx.h"
+	"stm32f3xx_hal.h"
+
+1403025236 c:\users\standa\desktop\projects\canfirewall\fw\dev\startup\stm32f303xc.h
+	"core_cm4.h"
+	"system_stm32f3xx.h"
+	<stdint.h>
+
+1399274760 c:\users\standa\desktop\projects\canfirewall\fw\dev\cmsis\include\core_cm4.h
+	<stdint.h>
+	<core_cmInstr.h>
+	<core_cmFunc.h>
+	<core_cm4_simd.h>
+
+1399274760 c:\users\standa\desktop\projects\canfirewall\fw\dev\cmsis\include\core_cminstr.h
+	<cmsis_iar.h>
+	<cmsis_ccs.h>
+
+1399274760 c:\users\standa\desktop\projects\canfirewall\fw\dev\cmsis\include\core_cmfunc.h
+	<cmsis_iar.h>
+	<cmsis_ccs.h>
+
+1399274760 c:\users\standa\desktop\projects\canfirewall\fw\dev\cmsis\include\core_cm4_simd.h
+	<cmsis_iar.h>
+	<cmsis_ccs.h>
+
+1402650838 c:\users\standa\desktop\projects\canfirewall\fw\dev\startup\system_stm32f3xx.h
+
+1403048574 c:\users\standa\desktop\projects\canfirewall\fw\dev\stm32f3xx_hal_driver\stm32f3xx_hal.h
+	"stm32f3xx_hal_conf.h"
+
+1410817236 c:\users\standa\desktop\projects\canfirewall\fw\dev\sources\stm32f3xx_hal_conf.h
+	"stm32f3xx_hal_rcc.h"
+	"stm32f3xx_hal_gpio.h"
+	"stm32f3xx_hal_dma.h"
+	"stm32f3xx_hal_cortex.h"
+	"stm32f3xx_hal_adc.h"
+	"stm32f3xx_hal_can.h"
+	"stm32f3xx_hal_cec.h"
+	"stm32f3xx_hal_comp.h"
+	"stm32f3xx_hal_crc.h"
+	"stm32f3xx_hal_dac.h"
+	"stm32f3xx_hal_flash.h"
+	"stm32f3xx_hal_hrtim.h"
+	"stm32f3xx_hal_i2c.h"
+	"stm32f3xx_hal_i2s.h"
+	"stm32f3xx_hal_irda.h"
+	"stm32f3xx_hal_iwdg.h"
+	"stm32f3xx_hal_opamp.h"
+	"stm32f3xx_hal_pcd.h"
+	"stm32f3xx_hal_pwr.h"
+	"stm32f3xx_hal_rtc.h"
+	"stm32f3xx_hal_sdadc.h"
+	"stm32f3xx_hal_smartcard.h"
+	"stm32f3xx_hal_smbus.h"
+	"stm32f3xx_hal_spi.h"
+	"stm32f3xx_hal_tim.h"
+	"stm32f3xx_hal_tsc.h"
+	"stm32f3xx_hal_uart.h"
+	"stm32f3xx_hal_usart.h"
+	"stm32f3xx_hal_wwdg.h"
+
+1403104572 c:\users\standa\desktop\projects\canfirewall\fw\dev\stm32f3xx_hal_driver\stm32f3xx_hal_rcc.h
+	"stm32f3xx_hal_def.h"
+	"stm32f3xx_hal_rcc_ex.h"
+
+1403048574 c:\users\standa\desktop\projects\canfirewall\fw\dev\stm32f3xx_hal_driver\stm32f3xx_hal_def.h
+	"stm32f3xx.h"
+
+1403104572 c:\users\standa\desktop\projects\canfirewall\fw\dev\stm32f3xx_hal_driver\stm32f3xx_hal_rcc_ex.h
+	"stm32f3xx_hal_def.h"
+
+1403048574 c:\users\standa\desktop\projects\canfirewall\fw\dev\stm32f3xx_hal_driver\stm32f3xx_hal_gpio.h
+	"stm32f3xx_hal_def.h"
+	"stm32f3xx_hal_gpio_ex.h"
+
+1403048574 c:\users\standa\desktop\projects\canfirewall\fw\dev\stm32f3xx_hal_driver\stm32f3xx_hal_gpio_ex.h
+	"stm32f3xx_hal_def.h"
+
+1403048574 c:\users\standa\desktop\projects\canfirewall\fw\dev\stm32f3xx_hal_driver\stm32f3xx_hal_dma.h
+	"stm32f3xx_hal_def.h"
+	"stm32f3xx_hal_dma_ex.h"
+
+1403048574 c:\users\standa\desktop\projects\canfirewall\fw\dev\stm32f3xx_hal_driver\stm32f3xx_hal_dma_ex.h
+	"stm32f3xx_hal_def.h"
+
+1403048574 c:\users\standa\desktop\projects\canfirewall\fw\dev\stm32f3xx_hal_driver\stm32f3xx_hal_cortex.h
+	"stm32f3xx_hal_def.h"
+
+1403048574 c:\users\standa\desktop\projects\canfirewall\fw\dev\stm32f3xx_hal_driver\stm32f3xx_hal_adc.h
+	"stm32f3xx_hal_def.h"
+	"stm32f3xx_hal_adc_ex.h"
+	"stm32f3xx_hal_adc_ex.h"
+
+1403048574 c:\users\standa\desktop\projects\canfirewall\fw\dev\stm32f3xx_hal_driver\stm32f3xx_hal_adc_ex.h
+	"stm32f3xx_hal_def.h"
+
+1421845520 c:\users\standa\desktop\projects\canfirewall\fw\dev\stm32f3xx_hal_driver\stm32f3xx_hal_can.h
+	"stm32f3xx_hal_def.h"
+
+1403048574 c:\users\standa\desktop\projects\canfirewall\fw\dev\stm32f3xx_hal_driver\stm32f3xx_hal_cec.h
+	"stm32f3xx_hal_def.h"
+
+1403048574 c:\users\standa\desktop\projects\canfirewall\fw\dev\stm32f3xx_hal_driver\stm32f3xx_hal_comp.h
+	"stm32f3xx_hal_def.h"
+	"stm32f3xx_hal_comp_ex.h"
+
+1403048574 c:\users\standa\desktop\projects\canfirewall\fw\dev\stm32f3xx_hal_driver\stm32f3xx_hal_comp_ex.h
+	"stm32f3xx_hal_def.h"
+
+1403048574 c:\users\standa\desktop\projects\canfirewall\fw\dev\stm32f3xx_hal_driver\stm32f3xx_hal_crc.h
+	"stm32f3xx_hal_def.h"
+	"stm32f3xx_hal_crc_ex.h"
+
+1403048574 c:\users\standa\desktop\projects\canfirewall\fw\dev\stm32f3xx_hal_driver\stm32f3xx_hal_crc_ex.h
+	"stm32f3xx_hal_def.h"
+
+1403048574 c:\users\standa\desktop\projects\canfirewall\fw\dev\stm32f3xx_hal_driver\stm32f3xx_hal_dac.h
+	"stm32f3xx_hal_def.h"
+	"stm32f3xx_hal_dac_ex.h"
+
+1403048574 c:\users\standa\desktop\projects\canfirewall\fw\dev\stm32f3xx_hal_driver\stm32f3xx_hal_dac_ex.h
+	"stm32f3xx_hal_def.h"
+
+1403048574 c:\users\standa\desktop\projects\canfirewall\fw\dev\stm32f3xx_hal_driver\stm32f3xx_hal_flash.h
+	"stm32f3xx_hal_def.h"
+	"stm32f3xx_hal_flash_ex.h"
+
+1403048574 c:\users\standa\desktop\projects\canfirewall\fw\dev\stm32f3xx_hal_driver\stm32f3xx_hal_flash_ex.h
+	"stm32f3xx_hal_def.h"
+
+1403048574 c:\users\standa\desktop\projects\canfirewall\fw\dev\stm32f3xx_hal_driver\stm32f3xx_hal_hrtim.h
+	"stm32f3xx_hal_def.h"
+
+1403048574 c:\users\standa\desktop\projects\canfirewall\fw\dev\stm32f3xx_hal_driver\stm32f3xx_hal_i2c.h
+	"stm32f3xx_hal_def.h"
+	"stm32f3xx_hal_i2c_ex.h"
+
+1403048574 c:\users\standa\desktop\projects\canfirewall\fw\dev\stm32f3xx_hal_driver\stm32f3xx_hal_i2c_ex.h
+	"stm32f3xx_hal_def.h"
+
+1403048574 c:\users\standa\desktop\projects\canfirewall\fw\dev\stm32f3xx_hal_driver\stm32f3xx_hal_i2s.h
+	"stm32f3xx_hal_def.h"
+	"stm32f3xx_hal_i2s_ex.h"
+
+1403048574 c:\users\standa\desktop\projects\canfirewall\fw\dev\stm32f3xx_hal_driver\stm32f3xx_hal_i2s_ex.h
+	"stm32f3xx_hal_def.h"
+
+1403048574 c:\users\standa\desktop\projects\canfirewall\fw\dev\stm32f3xx_hal_driver\stm32f3xx_hal_irda.h
+	"stm32f3xx_hal_def.h"
+	"stm32f3xx_hal_irda_ex.h"
+
+1403104572 c:\users\standa\desktop\projects\canfirewall\fw\dev\stm32f3xx_hal_driver\stm32f3xx_hal_irda_ex.h
+	"stm32f3xx_hal_def.h"
+
+1403048574 c:\users\standa\desktop\projects\canfirewall\fw\dev\stm32f3xx_hal_driver\stm32f3xx_hal_iwdg.h
+	"stm32f3xx_hal_def.h"
+
+1403048574 c:\users\standa\desktop\projects\canfirewall\fw\dev\stm32f3xx_hal_driver\stm32f3xx_hal_opamp.h
+	"stm32f3xx_hal_def.h"
+	"stm32f3xx_hal_opamp_ex.h"
+
+1403048574 c:\users\standa\desktop\projects\canfirewall\fw\dev\stm32f3xx_hal_driver\stm32f3xx_hal_opamp_ex.h
+	"stm32f3xx_hal_def.h"
+
+1403133748 c:\users\standa\desktop\projects\canfirewall\fw\dev\stm32f3xx_hal_driver\stm32f3xx_hal_pcd.h
+	"stm32f3xx_hal_def.h"
+	"stm32f3xx_hal_pcd_ex.h"
+
+1403048574 c:\users\standa\desktop\projects\canfirewall\fw\dev\stm32f3xx_hal_driver\stm32f3xx_hal_pcd_ex.h
+	"stm32f3xx_hal_def.h"
+
+1403048574 c:\users\standa\desktop\projects\canfirewall\fw\dev\stm32f3xx_hal_driver\stm32f3xx_hal_pwr.h
+	"stm32f3xx_hal_def.h"
+	"stm32f3xx_hal_pwr_ex.h"
+
+1403048574 c:\users\standa\desktop\projects\canfirewall\fw\dev\stm32f3xx_hal_driver\stm32f3xx_hal_pwr_ex.h
+	"stm32f3xx_hal_def.h"
+
+1403048574 c:\users\standa\desktop\projects\canfirewall\fw\dev\stm32f3xx_hal_driver\stm32f3xx_hal_rtc.h
+	"stm32f3xx_hal_def.h"
+	"stm32f3xx_hal_rtc_ex.h"
+
+1403048574 c:\users\standa\desktop\projects\canfirewall\fw\dev\stm32f3xx_hal_driver\stm32f3xx_hal_rtc_ex.h
+	"stm32f3xx_hal_def.h"
+
+1403048574 c:\users\standa\desktop\projects\canfirewall\fw\dev\stm32f3xx_hal_driver\stm32f3xx_hal_sdadc.h
+	"stm32f3xx_hal_def.h"
+
+1403104572 c:\users\standa\desktop\projects\canfirewall\fw\dev\stm32f3xx_hal_driver\stm32f3xx_hal_smartcard.h
+	"stm32f3xx_hal_def.h"
+	"stm32f3xx_hal_smartcard_ex.h"
+
+1403104572 c:\users\standa\desktop\projects\canfirewall\fw\dev\stm32f3xx_hal_driver\stm32f3xx_hal_smartcard_ex.h
+	"stm32f3xx_hal_def.h"
+
+1403048574 c:\users\standa\desktop\projects\canfirewall\fw\dev\stm32f3xx_hal_driver\stm32f3xx_hal_smbus.h
+	"stm32f3xx_hal_def.h"
+
+1403048574 c:\users\standa\desktop\projects\canfirewall\fw\dev\stm32f3xx_hal_driver\stm32f3xx_hal_spi.h
+	"stm32f3xx_hal_def.h"
+
+1414624788 c:\users\standa\desktop\projects\canfirewall\fw\dev\stm32f3xx_hal_driver\stm32f3xx_hal_tim.h
+	"stm32f3xx_hal_def.h"
+	"stm32f3xx_hal_tim_ex.h"
+
+1403048574 c:\users\standa\desktop\projects\canfirewall\fw\dev\stm32f3xx_hal_driver\stm32f3xx_hal_tim_ex.h
+	"stm32f3xx_hal_def.h"
+
+1403048574 c:\users\standa\desktop\projects\canfirewall\fw\dev\stm32f3xx_hal_driver\stm32f3xx_hal_tsc.h
+	"stm32f3xx_hal_def.h"
+
+1412163752 c:\users\standa\desktop\projects\canfirewall\fw\dev\stm32f3xx_hal_driver\stm32f3xx_hal_uart.h
+	"stm32f3xx_hal_def.h"
+	"stm32f3xx_hal_uart_ex.h"
+
+1403104572 c:\users\standa\desktop\projects\canfirewall\fw\dev\stm32f3xx_hal_driver\stm32f3xx_hal_uart_ex.h
+	"stm32f3xx_hal_def.h"
+
+1403149542 c:\users\standa\desktop\projects\canfirewall\fw\dev\stm32f3xx_hal_driver\stm32f3xx_hal_usart.h
+	"stm32f3xx_hal_def.h"
+	"stm32f3xx_hal_usart_ex.h"
+
+1403104572 c:\users\standa\desktop\projects\canfirewall\fw\dev\stm32f3xx_hal_driver\stm32f3xx_hal_usart_ex.h
+	"stm32f3xx_hal_def.h"
+
+1403048574 c:\users\standa\desktop\projects\canfirewall\fw\dev\stm32f3xx_hal_driver\stm32f3xx_hal_wwdg.h
+	"stm32f3xx_hal_def.h"
+
+1463332246 c:\users\standa\desktop\projects\canfirewall\fw\dev\sources\utility.h
+
+1463332861 c:\users\standa\desktop\projects\canfirewall\fw\dev\sources\com.h
+	"cmsis_os.h"
+
+1463332161 c:\users\standa\desktop\projects\canfirewall\fw\dev\sources\xbee.h
+	"cmsis_os.h"
+
+1463334927 source:c:\users\standa\desktop\projects\canfirewall\fw\dev\sources\can.c
+	"main.h"
+	"can.h"
+
+1463334084 c:\users\standa\desktop\projects\canfirewall\fw\dev\sources\can.h
+	"cmsis_os.h"
+
+1463332906 source:c:\users\standa\desktop\projects\canfirewall\fw\dev\sources\clocks.c
+	"clocks.h"
+	"main.h"
+
+1463332883 c:\users\standa\desktop\projects\canfirewall\fw\dev\sources\clocks.h
+
+1463335268 source:c:\users\standa\desktop\projects\canfirewall\fw\dev\sources\com.c
+	"main.h"
+	"can.h"
+	<stdarg.h>
+
+1463335738 source:c:\users\standa\desktop\projects\canfirewall\fw\dev\sources\comprotocol.c
+	"comprotocol.h"
+	"main.h"
+	"can.h"
+
+1463332295 c:\users\standa\desktop\projects\canfirewall\fw\dev\sources\comprotocol.h
+
+1461876672 source:c:\users\standa\desktop\projects\canfirewall\fw\dev\sources\main.c
+	"main.h"
+	"clocks.h"
+	"xbee.h"
+	"can.h"
+
+1421762236 source:c:\users\standa\desktop\projects\canfirewall\fw\dev\startup\startup_stm32f303xc.s
+
+1402650838 source:c:\users\standa\desktop\projects\canfirewall\fw\dev\startup\system_stm32f3xx.c
+	"stm32f3xx.h"
+
+1403048568 source:c:\users\standa\desktop\projects\canfirewall\fw\dev\stm32f3xx_hal_driver\stm32f3xx_hal.c
+	"stm32f3xx_hal.h"
+
+1421842951 source:c:\users\standa\desktop\projects\canfirewall\fw\dev\stm32f3xx_hal_driver\stm32f3xx_hal_can.c
+	"stm32f3xx_hal.h"
+
+1403048568 source:c:\users\standa\desktop\projects\canfirewall\fw\dev\stm32f3xx_hal_driver\stm32f3xx_hal_cortex.c
+	"stm32f3xx_hal.h"
+
+1421661348 source:c:\users\standa\desktop\projects\canfirewall\fw\dev\stm32f3xx_hal_driver\stm32f3xx_hal_dma.c
+	"stm32f3xx_hal.h"
+
+1403048568 source:c:\users\standa\desktop\projects\canfirewall\fw\dev\stm32f3xx_hal_driver\stm32f3xx_hal_flash.c
+	"stm32f3xx_hal.h"
+
+1403048568 source:c:\users\standa\desktop\projects\canfirewall\fw\dev\stm32f3xx_hal_driver\stm32f3xx_hal_flash_ex.c
+	"stm32f3xx_hal.h"
+
+1403139008 source:c:\users\standa\desktop\projects\canfirewall\fw\dev\stm32f3xx_hal_driver\stm32f3xx_hal_gpio.c
+	"stm32f3xx_hal.h"
+
+1403104572 source:c:\users\standa\desktop\projects\canfirewall\fw\dev\stm32f3xx_hal_driver\stm32f3xx_hal_pwr.c
+	"stm32f3xx_hal.h"
+
+1403048568 source:c:\users\standa\desktop\projects\canfirewall\fw\dev\stm32f3xx_hal_driver\stm32f3xx_hal_pwr_ex.c
+	"stm32f3xx_hal.h"
+
+1403048568 source:c:\users\standa\desktop\projects\canfirewall\fw\dev\stm32f3xx_hal_driver\stm32f3xx_hal_rcc.c
+	"stm32f3xx_hal.h"
+
+1403048568 source:c:\users\standa\desktop\projects\canfirewall\fw\dev\stm32f3xx_hal_driver\stm32f3xx_hal_rcc_ex.c
+	"stm32f3xx_hal.h"
+
+1403048568 source:c:\users\standa\desktop\projects\canfirewall\fw\dev\stm32f3xx_hal_driver\stm32f3xx_hal_tim.c
+	"stm32f3xx_hal.h"
+
+1403048568 source:c:\users\standa\desktop\projects\canfirewall\fw\dev\stm32f3xx_hal_driver\stm32f3xx_hal_tim_ex.c
+	"stm32f3xx_hal.h"
+
+1403048568 source:c:\users\standa\desktop\projects\canfirewall\fw\dev\stm32f3xx_hal_driver\stm32f3xx_hal_uart.c
+	"stm32f3xx_hal.h"
+
+1463332223 source:c:\users\standa\desktop\projects\canfirewall\fw\dev\sources\utility.c
+	"main.h"
+	"utility.h"
+
+1463332133 source:c:\users\standa\desktop\projects\canfirewall\fw\dev\sources\xbee.c
+	"main.h"
+	"comprotocol.h"
+	<stdarg.h>
+
